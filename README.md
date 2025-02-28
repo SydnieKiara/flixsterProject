@@ -1,10 +1,10 @@
-# Android Project 3 - Flixster Movie Database
+# Android Project 3 - Flixster Movie
 
-Submitted by: Alexander Zugaj
+Submitted by: Sydnie Johnson
 
 Flixster Movie Database is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: 10 hours spent in total
+Time spent: 10 hours 
 
 ## Required Features
 
@@ -45,7 +45,7 @@ I had challenges getting connectivity to the internet and my app not crashing on
 
 ## License
 
-    Copyright [2023] [Alex Zugaj]
+    Copyright [2025] [Sydnie Johnson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
